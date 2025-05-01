@@ -2,3 +2,4 @@ Name: Claire Burlats
 Age: 34
 Favorite Color: Blue
 City: Paris
+Country: France
